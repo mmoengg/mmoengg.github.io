@@ -1,5 +1,9 @@
 # The Site Configuration
 
+npm install
+npm run build
+npm install -g win-node-env
+
 include:
  - _javascript
 
