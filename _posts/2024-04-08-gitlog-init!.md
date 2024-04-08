@@ -19,6 +19,6 @@ read: false
 
 찬찬히 블로깅 다시 해 보겠습니다! 나야 성장하자!
 
-### 오늘의 BGM
+## 오늘의 BGM
 
 {% include embed/youtube.html id='hyEkyIDs0_8' %}
