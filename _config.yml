@@ -1,8 +1,8 @@
 # The Site Configuration
 
-npm install
-npm run build
-npm install -g win-node-env
+scripts:
+  prebuild: "npm install" # Run npm install before building
+  build: "npm run build"
 
 include:
  - _javascript
