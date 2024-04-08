@@ -108,8 +108,5 @@
         "section": "Improvements"
       }
     ]
-  },
-  "dependencies": {
-    "sass": "^1.74.1"
   }
 }
