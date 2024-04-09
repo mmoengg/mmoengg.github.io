@@ -1,0 +1,32 @@
+---
+title: (JavaScript) Formaction을 on:click 다음에 실행하고 싶어.
+description: 내부 API 결과 return 받고 formaction 실행해 주면 안 될까 스크립트야??...
+author: m
+date: 2024-04-09 15:20:30 +2000
+categories: [Today I Learned]
+tags: [javascript, html]
+pin: false
+math: false
+mermaid: false
+read: false
+---
+
+<br>
+## 😢 formaction 멈촤
+
+폼 액션 실행되기 전에 온클릭이 실행 됐으면 한다구요
+
+<br>
+## 🙏 
+
+<br>
+## 😅 
+
+
+
+<br>
+## 🫡 이래서였구나
+
+
+
+<br>

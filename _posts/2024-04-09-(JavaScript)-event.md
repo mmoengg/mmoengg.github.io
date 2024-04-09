@@ -3,8 +3,8 @@ title: (JavaScript) addEventListener를 제거해 봅시다.
 description: window.addEventListener를 삭제하지 않아서 지속적인 함수의 실행이 반복되었다. 해결책을 찾아 보자.
 author: m
 date: 2024-04-09 12:40:30 +2000
-categories: [Daily]
-tags: [JavaScript,Html]
+categories: [Today I Learned]
+tags: [javascript, html]
 pin: false
 math: false
 mermaid: false
