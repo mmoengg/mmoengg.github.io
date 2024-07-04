@@ -80,7 +80,7 @@ module.exports = nextConfig;
 <br>
 <br>
 ## 📖 래퍼런스
-> [Next.js 공식 문서 / <Image> Components](https://nextjs.org/docs/pages/api-reference/components/image)
+> [Next.js 공식 문서 / Image Components](https://nextjs.org/docs/pages/api-reference/components/image)
 {: .prompt-tip }
 <br>
 <br>
