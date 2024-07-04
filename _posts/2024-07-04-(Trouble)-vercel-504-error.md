@@ -4,7 +4,7 @@ description:
 author: m
 date: 2024-07-04 13:20:30 +2000
 categories: [Trouble shooting]
-tags: [react, next.js, next.js, vercel]
+tags: [react, next.js, vercel]
 pin: false
 math: false
 mermaid: false

@@ -36,6 +36,9 @@ const nextConfig = {
 
 export default nextConfig;
 ```
+기존의 next.config.js는 초기 환경 세팅 이후 추가 설정된 것이 없다. remotePatterns을 아래와 같이 추가해 주자.
+<br>
+<br>
 
 ```
 // after
@@ -55,6 +58,8 @@ const nextConfig = {
 
 module.exports = nextConfig;
 ```
+protocol과 hostname을 잘 적어 두어야 한다.
+<br>
 
 ### 1-2. next.config.js - domains
 ```
@@ -70,11 +75,14 @@ const nextConfig = {
 
 module.exports = nextConfig;
 ```
+domains으로 작성해도 외부 링크 이미지를 가져올 수 있다.
 
 <br>
 <br>
 ## ⌨️ 결과
 ![image](https://github.com/mmoengg/whiary/assets/115635503/542dbd83-8313-4488-a945-3befe088403c)
+<br>
+
 화면에 에러 없이 정상적으로 이미지가 불러와지고 있다. 확실히 바닐라 JS를 쓰다가 프레임워크를 사용하게 되니 새로운 에러가 많이 보인다. 알아서 최적화 해 주느라 발생하는 에러를 만나기도 하는구나 싶다....
 
 <br>
